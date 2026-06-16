@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { Home, FileText, Sun, Folder, User, ChevronRight, Brain, Lightbulb, Bell, LogOut, CheckCircle, ChevronLeft, Moon, Cloud, Sunrise, Settings2, Activity, Download, Shield, Info, Smartphone, ArrowLeft, AlertCircle, Battery, Clock, ChevronDown, MoreHorizontal, Loader2, Sparkles, Search, Calendar, ArrowRight, Target, AlignLeft, Eye, SkipBack, SkipForward, RefreshCw, BarChart, SlidersHorizontal, FileSearch, Filter, Play } from 'lucide-react';
+import React from 'react';
+import { Moon } from 'lucide-react';
 
 export default function StartupPage({ onClick }) {
   return (
@@ -8,7 +8,7 @@ export default function StartupPage({ onClick }) {
         <div className="w-24 h-24 bg-white/10 backdrop-blur-md rounded-3xl flex items-center justify-center mb-6 shadow-xl border border-white/20">
           <Moon className="w-12 h-12 text-amber-200" />
         </div>
-        <h1 className="text-4xl font-light text-white tracking-wider mb-2">SleepEcho</h1>
+        <h1 className="text-4xl font-light text-white tracking-wider mb-2">SomniLink</h1>
         <div className="w-12 h-1 bg-amber-200/50 rounded-full mb-6"></div>
       </div>
       <div className="pb-16 text-center">
