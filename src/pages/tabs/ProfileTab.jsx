@@ -8,7 +8,7 @@ export default function ProfileTab({ onNavigate }) {
     { icon: <Brain size={18}/>, label: '自动监测设置', color: 'text-emerald-500', bg: 'bg-emerald-50' },
     { icon: <Lightbulb size={18}/>, label: '自动应用灯光方案', color: 'text-amber-500', bg: 'bg-amber-50' },
     { icon: <Shield size={18}/>, label: '隐私与帮助', color: 'text-blue-500', bg: 'bg-blue-50' },
-    { icon: <Info size={18}/>, label: '关于 SleepEcho', color: 'text-slate-500', bg: 'bg-slate-100' },
+    { icon: <Info size={18}/>, label: '关于 SomniLink', color: 'text-slate-500', bg: 'bg-slate-100' },
   ];
 
   return (
