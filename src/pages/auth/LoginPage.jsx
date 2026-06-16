@@ -7,7 +7,7 @@ export default function LoginPage({ onLogin }) {
       <div className="absolute top-0 left-0 right-0 h-64 bg-gradient-to-b from-indigo-100 to-slate-50 -z-10"></div>
       <div className="px-8 pt-24 pb-8">
         <h1 className="text-3xl font-medium text-slate-800 mb-2">欢迎来到</h1>
-        <h2 className="text-4xl font-light text-indigo-600 tracking-wide mb-10">SleepEcho</h2>
+        <h2 className="text-4xl font-light text-indigo-600 tracking-wide mb-10">SomniLink</h2>
         <div className="space-y-6">
           <div className="space-y-4">
             <div className="flex items-center bg-white rounded-2xl p-4 shadow-sm border border-slate-100">
