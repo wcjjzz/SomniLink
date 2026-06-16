@@ -1,4 +1,4 @@
-# SleepEcho
+# SomniLink
 
 这是从 单文件 JSX 拆分出来的 Vite + React 静态站项目。
 
